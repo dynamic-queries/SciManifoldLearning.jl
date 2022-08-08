@@ -1,6 +1,6 @@
-using SystemsIdentification.jl
+using SystemsIdentification
 using Test
 
-@testset "SystemsIdentification.jl.jl" begin
+@testset "SystemsIdentification.jl" begin
     # Write your tests here.
 end

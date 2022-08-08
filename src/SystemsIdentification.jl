@@ -1,4 +1,4 @@
-module SystemsIdentification.jl
+module SystemsIdentification
 
 # Write your package code here.
 
