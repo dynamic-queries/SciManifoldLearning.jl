@@ -3,6 +3,9 @@ uuid = "6384d8f8-e787-41bd-bb08-3df48ab106b5"
 authors = ["Rahul Manavalan"]
 version = "0.1.0"
 
+[deps]
+FullWaveformInversion = "e44fb30f-94c8-4b3f-b7f7-0cc51c522daf"
+
 [compat]
 julia = "1.6"
 
